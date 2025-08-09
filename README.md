@@ -1,4 +1,8 @@
 # DREAM-Twitter-Data-Mining-101.1-tutorial
+
+In 2018, I was tasked with giving a tutorial to MNSU students on how to mine twitter data to later use in a ML model.
+
+
 For this tutorial, we will require these files which are attached. Download all and put them in a zip folder which will make it easier to input and output files.
 
 There are three pre-requisites to this tutorial.
